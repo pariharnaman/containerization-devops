@@ -15,4 +15,4 @@ It is designed to support academic learning and hands-on practice with modern De
 - Automate software development and deployment processes
 
 ## Lab
-[Experiment2](https://github.com/pariharnaman/containerization-devops/blob/main/Lab/Experiment%202/README.md)
+[Experiment2](./Lab/Experiment 2/README.md)
