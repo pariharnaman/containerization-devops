@@ -13,3 +13,6 @@ It is designed to support academic learning and hands-on practice with modern De
 - Learn DevOps principles and workflows
 - Gain hands-on experience through lab exercises
 - Automate software development and deployment processes
+
+## Lab
+[Experiment2](https://github.com/pariharnaman/containerization-devops/blob/main/Lab/Experiment%202/README.md)
