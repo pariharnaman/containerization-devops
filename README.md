@@ -15,4 +15,6 @@ It is designed to support academic learning and hands-on practice with modern De
 - Automate software development and deployment processes
 
 ## Lab
+[Experiment1](./Lab/Experiment 1/README.md)
 [Experiment2](./Lab/Experiment 2/README.md)
+
