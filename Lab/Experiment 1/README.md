@@ -1,4 +1,5 @@
-# Experiment 2: Docker Image and Container Management
+# Experiment 1: Comparison of Virtual Machines (VMs) and Containers using Ubuntu and Nginx
+
 
 ## Objective
 - Install Vagrant and run nginx on VM
