@@ -49,6 +49,9 @@ It is structured to support:
 ### Experiment 2  
 [View Experiment 2](./Lab/Experiment%202/README.md)
 
+### Experiment 3 
+[View Experiment 3](./Lab/Experiment%203/README.md)
+
 ---
 
 ## Tools and Technologies Used
