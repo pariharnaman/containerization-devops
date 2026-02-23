@@ -44,13 +44,13 @@ It is structured to support:
 ## Lab Experiments
 
 ### Experiment 1  
-[Experiment 1](./Lab/Experiment%201/README.md)
+[Experiment 1](./Lab/Experiment1/README.md)
 
 ### Experiment 2  
-[Experiment 2](./Lab/Experiment%202/README.md)
+[Experiment 2](./Lab/Experiment2/README.md)
 
 ### Experiment 3 
-[Experiment 3](./Lab/Experiment%203/README.md)
+[Experiment 3](./Lab/Experiment3/README.md)
 
 ---
 
