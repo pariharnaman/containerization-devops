@@ -52,6 +52,9 @@ It is structured to support:
 ### Experiment 3 
 [Experiment 3](./Lab/Experiment3/README.md)
 
+### Lab task
+[Labtask](./Theory/Labtask/README.md)
+
 ---
 
 ## Tools and Technologies Used
