@@ -17,7 +17,7 @@ The official Nginx latest image was pulled from Docker Hub to the local system.
 docker pull nginx:latest
 ```
 
-![Step 1](./Experiment%203/Images/1.png)
+![Step 1](./Images/1.png)
 
 ---
 
@@ -28,7 +28,7 @@ A container was created and executed from the nginx:latest image with port mappi
 docker run -d -p 8080:80 --name nginx-latest nginx:latest
 ```
 
-![Step 2](./Experiment%203/Images/2.png)
+![Step 2](./Images/2.png)
 
 ---
 
@@ -39,7 +39,7 @@ The image details were checked to observe the size and other properties for comp
 docker images nginx
 ```
 
-![Step 3](./Experiment%203/Images/3.png)
+![Step 3](./Images/3.png)
 
 ---
 
@@ -58,7 +58,7 @@ The image was built using:
 docker build -t nginx-ubuntu .
 ```
 
-![Step 4](./Experiment%203/Images/4.png)
+![Step 4](./Images/4.png)
 
 ---
 
@@ -69,7 +69,7 @@ The container was executed from the newly built nginx-ubuntu image.
 docker run -d -p 8081:80 --name nginx-ubuntu-container nginx-ubuntu
 ```
 
-![Step 5](./Experiment%203/Images/5.png)
+![Step 5](./Images/5.png)
 
 ---
 
@@ -80,7 +80,7 @@ The image size and details were observed for comparison.
 docker images nginx-ubuntu
 ```
 
-![Step 6](./Experiment%203/Images/6.png)
+![Step 6](./Images/6.png)
 
 ---
 
@@ -99,7 +99,7 @@ The image was built using:
 docker build -t nginx-alpine .
 ```
 
-![Step 7](./Experiment%203/Images/7.png)
+![Step 7](./Images/7.png)
 
 ---
 
@@ -110,7 +110,7 @@ The container was executed from the nginx-alpine image.
 docker run -d -p 8082:80 --name nginx-alpine-container nginx-alpine
 ```
 
-![Step 8](./Experiment%203/Images/8.png)
+![Step 8](./Images/8.png)
 
 ---
 
@@ -121,7 +121,6 @@ The image size and details were checked for final comparison.
 docker images nginx-alpine
 ```
 
-![Step 9](./Experiment%203/Images/9.png)
 
 ---
 
