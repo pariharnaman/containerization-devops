@@ -58,6 +58,8 @@ It is structured to support:
 ### Experiment 4
 [Experiment 4](./Lab/Experiment4/README.md)
 
+### Experiment 5
+[Experiment 5](./Lab/Experiment5/README.md)
 ---
 
 ## Tools and Technologies Used
