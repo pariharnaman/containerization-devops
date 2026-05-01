@@ -66,6 +66,12 @@ It is structured to support:
 
 [Experiment 9](./Lab/Experiment9/README.md)
 
+
+### Experiment 10
+
+[Experiment 10](./Lab/Experiment10/README.md)
+
+
 ---
 
 ## Tools and Technologies Used
