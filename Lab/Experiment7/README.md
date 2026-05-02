@@ -56,7 +56,7 @@
 
 ![Docker Credentials](./images/accesstoken.png)
 
-![Docker Credentials](./images/tokencreated.png)
+![Docker Credentials](./images/tokencreted.png)
 
 ### 2: Create Pipeline Job
 - Set up a Jenkins pipeline job  
