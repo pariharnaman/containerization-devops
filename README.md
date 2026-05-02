@@ -66,6 +66,10 @@ It is structured to support:
 
 [Experiment 6](./Lab/Experiment6/README.md)
 
+### Experiment 7
+
+[Experiment 7](./Lab/Experiment7/README.md)
+
 ### Experiment 9
 
 [Experiment 9](./Lab/Experiment9/README.md)
