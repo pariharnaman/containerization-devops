@@ -34,7 +34,7 @@
 - Launch Jenkins container using Docker Compose  
 - Initializes the CI/CD environment  
 
-![Start Jenkins](.images/compup.png)
+![Start Jenkins](./images/compup.png)
 
 ### 3: Unlock Jenkins
 - Access Jenkins via browser  
